@@ -18,3 +18,4 @@ New week, new day, more grind!.
 This week i will focus on learning more on Next.js
 
 JAN 13
+New day, more grind.
