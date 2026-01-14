@@ -22,3 +22,4 @@ New day, more grind.
 Still working on TS web security and i will also be working on a task from team IDEC.
 
 JAN 14
+New day, samw grind.
