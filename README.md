@@ -20,3 +20,5 @@ This week i will focus on learning more on Next.js
 JAN 13
 New day, more grind.
 Still working on TS web security and i will also be working on a task from team IDEC.
+
+JAN 14
