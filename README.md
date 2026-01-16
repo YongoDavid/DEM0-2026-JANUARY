@@ -24,3 +24,5 @@ Still working on TS web security and i will also be working on a task from team 
 JAN 14
 New day, same grind.
 Going to continue from where i stopped yesterday.
+
+JAN 15
