@@ -30,3 +30,5 @@ New day, same grind.
 Going to continue from where i stopped yesterday on TrueSpec.
 
 JAN 19
+New week, new day, more grind!.
+This week i will focus on learning more on Code
