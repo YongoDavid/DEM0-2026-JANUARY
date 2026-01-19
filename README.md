@@ -28,3 +28,5 @@ Going to continue from where i stopped yesterday.
 JAN 15
 New day, same grind.
 Going to continue from where i stopped yesterday on TrueSpec.
+
+JAN 19
