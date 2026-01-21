@@ -34,6 +34,7 @@ New week, new day, more grind!.
 This week i will focus on learning more on Code
 
 JAN 20
-New da, same grind.
+New day, same grind.
 
 JAN 21
+New day, samw grind!.
