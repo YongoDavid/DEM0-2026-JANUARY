@@ -37,7 +37,9 @@ JAN 20
 New day, same grind.
 
 JAN 21
-New day, samw grind!.
+New day, sam grind!.
 Working on Next.
 
 JAN 22
+New day, same grind.
+Still working on Next.
