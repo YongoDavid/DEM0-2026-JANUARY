@@ -50,3 +50,4 @@ Still working on Next.
 
 
 JAN 26
+New week, new day, more grind.
