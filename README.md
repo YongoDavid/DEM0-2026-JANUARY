@@ -52,3 +52,5 @@ Still working on Next.
 JAN 26
 New week, new day, more grind.
 Study more on next.
+
+JAN 27
